@@ -1,4 +1,4 @@
-## Hello community, Welcome to my profile.
+## Hello community, welcome to my profile.
 
 
 <!--
