@@ -13,7 +13,3 @@ I am Nikhil Agarwal, a third year computer science student.
 
 1. **Contribution in Oppia**: Contributed to many issues at oppia foundation and currently working as a member in it.
      
-## Major Projects
-
-1. [Student Database record]()
-
