@@ -2,12 +2,12 @@
 ## Little intro about me.
 
 I am Nikhil Agarwal, a third year computer science student.
+**Open Source** Contributor.
 
 ## Participation
 
 1. **Google Summer of Code 2021 under Oppia Foundation.**
-     - The project requires to build an architecture to validate all the handler params against its schema.
-     - After buiding the architecture, the project also focuses on writing schema for half of the existing handlers.
+     - [Work sample submitted](https://summerofcode.withgoogle.com/projects/#5133229247430656).
 
 ## Contribution
 
