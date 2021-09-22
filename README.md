@@ -7,7 +7,7 @@ I am Nikhil Agarwal, a third year computer science student.
 ## Participation
 
 1. **Google Summer of Code 2021 under Oppia Foundation.**
-     - [Work sample submitted](https://summerofcode.withgoogle.com/projects/#5133229247430656).
+     - [view my project](https://summerofcode.withgoogle.com/projects/#5133229247430656).
 
 ## Contribution
 
