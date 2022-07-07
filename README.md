@@ -1,7 +1,7 @@
 
 ## Little intro about me.
 
-I am Nikhil Agarwal, a third year computer science student.
+I am Nikhil Agarwal, a fourth year computer science student.
 **Open Source** Contributor.
 
 ## Participation
