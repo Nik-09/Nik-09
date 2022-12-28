@@ -4,7 +4,7 @@
 I am Nikhil Agarwal, a fourth year computer science student.
 **Open Source** Contributor.
 
-## Open source projects: 
+## Open source projects
 - [Learner Diagnostic Test](https://github.com/Nik-09/major-projects/blob/main/LearnerDiagnosticTest.md)
 - [Schema Validation Project](https://github.com/Nik-09/major-projects/blob/main/SchemaValidationSystem.md)
 
