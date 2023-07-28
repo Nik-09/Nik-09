@@ -1,7 +1,7 @@
 
 ## Introduction
 
-I am Nikhil Agarwal, a fourth year computer science student.
+I am Nikhil Agarwal, a recent computer science graduate.
 **Open Source** Contributor.
 
 ## Open source projects
