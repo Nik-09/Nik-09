@@ -6,10 +6,20 @@ Versatile computer science graduate and open-source enthusiast, specializing in 
 
 <h2 align="center">Open Source Projects</h2>  
 
-- [Learner Diagnostic Test](https://summerofcode.withgoogle.com/archive/2022/projects/4tEjoeF5):  
-  Developed a recommendation system for students using full-stack development, including Python, and Angular to dynamically analyze and recommend topics based on the performance of tests. To ensure accuracy, a suite of unit tests and E2E tests were created and used to verify the system.
-- [Schema Validation Project](https://summerofcode.withgoogle.com/archive/2021/projects/6288867950329856):  
-Developed a schema validation system to ensure that incoming arguments for backend code are correctly validated against their corresponding schemas. This system normalizes the arguments, raising errors before the code is reached, and supports eventual migration from legacy structures that lack schema validation to structures that support this feature. To ensure accuracy, a suite of unit tests was created and used to verify the system.
+<h3>Voiceover Management System</h3>
+Designed and developed a new admin interface for Oppia's voiceover system using Python and Angular. Implemented efficient data migration using Apache Beam. Created accent labeling functionality to ensure accurate voice artist tagging. Successfully migrated voiceovers to enhance accent selection for learners and enforce accent specifications for voice artists.  
+
+[Technical design document](https://docs.google.com/document/d/1FEWJxstra1mdZZLG59nQHMA6b8JP6iGathG08kNR8Rs/edit)  
+
+<h3>Learner Diagnostic Test</h3>  
+Developed a recommendation system for students using full-stack development, including Python, and Angular to dynamically analyze and recommend topics based on the performance of tests. To ensure accuracy, a suite of unit tests and E2E tests were created and used to verify the system.  
+
+[Technical design document](https://docs.google.com/document/d/1LetLUZHp5sIlE6AU7RGLuGl1SCErNulFXKRnUB2WgJM/edit#heading=h.oeb97grxxkur)  |  [Project link](https://summerofcode.withgoogle.com/archive/2022/projects/4tEjoeF5)
+
+<h3>Schema Validation Project</h3>  
+Developed a schema validation system to ensure that incoming arguments for backend code are correctly validated against their corresponding schemas. This system normalizes the arguments, raising errors before the code is reached, and supports eventual migration from legacy structures that lack schema validation to structures that support this feature. To ensure accuracy, a suite of unit tests was created and used to verify the system.  
+
+[Technical design document](https://docs.google.com/document/d/1OkTqfdz7kkvfiZg1YW6cJlZb4FFNe0aIbjw106PzdF4/edit#heading=h.kmalp4o81k4c)  |  [Project link](https://summerofcode.withgoogle.com/archive/2021/projects/6288867950329856)
 
 <h2 align="center">Contributions</h2>  
 
