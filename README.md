@@ -23,7 +23,7 @@ Developed a schema validation system to ensure that incoming arguments for backe
 
 <h2 align="center">Contributions</h2>  
 
-I have been an active open source contributor to the Oppia Foundation for the past two years. During this time, I have developed my skills in software engineering and project management, particularly in the development of web-based educational tools and resources.
+I have been an active open source contributor to the Oppia Foundation for the past 3+ years. During this time, I have developed my skills in software engineering and project management, particularly in the development of web-based educational tools and resources.
 
 <h2 align="center">Technologies</h2>  
 <p align="center">
