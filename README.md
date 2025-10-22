@@ -3,7 +3,7 @@
 
 Versatile computer science graduate and open-source enthusiast, specializing in impactful software development, collaborative coding, and automation. Known for successful contributions to high-profile projects, including Google Summer of Code, with a keen interest in emerging technologies like Kubernetes and Machine Learning.
 
-**Resume**: [google doc link]([url](https://docs.google.com/document/d/1xeFvsnkuVfncNfKFWCOSNxr_SvsKI3k9Th_OPMwFS_8/edit?usp=sharing))
+**Resume: [google doc link](https://docs.google.com/document/d/1xeFvsnkuVfncNfKFWCOSNxr_SvsKI3k9Th_OPMwFS_8/edit?tab=t.0)**
 
 
 <h2 align="center">Open Source Projects</h2>  
